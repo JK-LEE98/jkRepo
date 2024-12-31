@@ -1,13 +1,4 @@
 ---
-name: Feature request
-about: 기능-개발-이슈
-title: ''
-labels: enhancement
-assignees: ''
-
----
-
----
 name: 기능 개발 이슈
 about: 만든 기능 상세히 설명하자
 title: ''
